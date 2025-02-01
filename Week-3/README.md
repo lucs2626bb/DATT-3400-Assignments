@@ -1,3 +1,11 @@
+Tutorial links:
+Pseudo Voronori - bileam tschepe (July 25th, 2020)
+https://www.youtube.com/watch?v=zMunf5NaR9E
+
+Simon-Alexander Addams: Instancing Geometry
+https://www.youtube.com/watch?v=BFG-FBKuJow
+
+
 Weekly moodboard 3:
 
 This week I was looking through inspiration by looking at organic structures. With touch designer, creating chaotic, unpredictable shapes would be very interesting especially after last week from using true randomness. For the first tutorial I have followed how to make pseudo voronori textures that move in real time. At some point, it reminded me of the way mycelium and fungus grow in random directions. For example, slime mold grows and pulses in random directions but leaves behind a web pattern as it grows.
