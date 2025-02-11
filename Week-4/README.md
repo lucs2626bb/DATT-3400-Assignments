@@ -8,5 +8,5 @@ One side project for another course that I have been working on was instancing t
 
 This has had me thinking about the way textures on SOPs work in TouchDesigner. I wanted to use this as a solution for recreating the work "Centrifugal #30" by Marcello Soria Rodreguiez, which has several flat planes encircling a point in different colours. This was implemented in TouchDesigner through a tutorial made by Bileam Tschepe on YouTube
 
-Texture On Instances – TouchDesigner Tutorial 53 (Bileam Tschepe, March 14 2022)
+Texture On Instances – TouchDesigner Tutorial 53 (Bileam Tschepe (elekktronaut), March 14 2022)
 https://youtu.be/0m_MQniFEdA?si=xC3sLaURVbw1nw2M
